@@ -16,3 +16,9 @@ aucune consolidation.
 
 **Vous gérez stocks multi-sites ?** Modules Dolibarr sur mesure, intégrations, montées de version.
 **Mohamed Maache** — Tech Lead, 26 ans d'expérience · [Malt](https://www.malt.fr/profile/mohamedmaache3) · [LinkedIn](https://www.linkedin.com/in/mohamed-maache-538828239/)
+
+## Schéma d'architecture
+
+![Architecture du hub WMS multi-filiales](docs/case-study.png)
+
+*Schéma de synthèse — document d'architecture, pas une capture d'écran de l'interface.*
